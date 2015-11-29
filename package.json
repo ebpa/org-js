@@ -26,5 +26,12 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/mooz/org-js.git"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/mocha tests/**-spec.js"
   }
 }
