@@ -1,0 +1,20 @@
+* Types of placeholders
+  :PROPERTIES:
+  :ID:       a0fe895f-e892-4247-8d53-c3f3f821243e
+  :END:
+** Foo
+  :PROPERTIES:
+  :ID:       a0fe895f-e892-4247-8d53-c3f3f821243e
+  :END:
+** Bar
+  :PROPERTIES:
+  :ID:       a0fe895f-e892-4247-8d53-c3f3f821243e
+  :END:
+** Baz
+  :PROPERTIES:
+  :ID:       a0fe895f-e892-4247-8d53-c3f3f821243e
+  :END:
+** Bat
+  :PROPERTIES:
+  :ID:       a0fe895f-e892-4247-8d53-c3f3f821243e
+  :END:
